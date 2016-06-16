@@ -1,0 +1,125 @@
+[
+    {
+        "outputFile": "C:\\Users\\hao\\workspace\\DroidBenchProj\\ActivityCommunication1\\app\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\ActivityCommunication1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 59,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 52,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\ActivityCommunication1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 52,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 50,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\ActivityCommunication1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 50,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 62,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\ActivityCommunication1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 62,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\ActivityCommunication1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 728
+                },
+                "from": {
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\ActivityCommunication1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

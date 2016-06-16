@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "C:\\Users\\hao\\workspace\\DroidBenchProj\\GeneralJava_VirtualDispatch1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\GeneralJava_VirtualDispatch1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 53,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 52,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\GeneralJava_VirtualDispatch1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 52,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 50,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\GeneralJava_VirtualDispatch1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 50,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\GeneralJava_VirtualDispatch1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\GeneralJava_VirtualDispatch1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    }
+]

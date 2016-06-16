@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\hao\\workspace\\DroidBenchProj\\BroadcastTaintAndLeak1\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "C:\\Users\\hao\\workspace\\DroidBenchProj\\BroadcastTaintAndLeak1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hao\\workspace\\DroidBenchProj\\BroadcastTaintAndLeak1\\app\\build\\intermediates\\res\\merged\\release\\layout\\my_simple_list_item.xml",
+        "source": "C:\\Users\\hao\\workspace\\DroidBenchProj\\BroadcastTaintAndLeak1\\app\\src\\main\\res\\layout\\my_simple_list_item.xml"
+    }
+]

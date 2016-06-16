@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="black">#000000</drawable>
+    <drawable name="white">#FFFFFFFF</drawable>
+    <string name="app_name">Programmatic-Intent-Filter</string>
+    <string name="hello">Hello World, EX07_11</string>
+</resources>

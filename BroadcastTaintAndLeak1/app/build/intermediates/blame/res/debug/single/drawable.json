@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\hao\\workspace\\DroidBenchProj\\BroadcastTaintAndLeak1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\hao\\workspace\\DroidBenchProj\\BroadcastTaintAndLeak1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hao\\workspace\\DroidBenchProj\\BroadcastTaintAndLeak1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stop.png",
+        "source": "C:\\Users\\hao\\workspace\\DroidBenchProj\\BroadcastTaintAndLeak1\\app\\src\\main\\res\\drawable\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\hao\\workspace\\DroidBenchProj\\BroadcastTaintAndLeak1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record.png",
+        "source": "C:\\Users\\hao\\workspace\\DroidBenchProj\\BroadcastTaintAndLeak1\\app\\src\\main\\res\\drawable\\record.png"
+    },
+    {
+        "merged": "C:\\Users\\hao\\workspace\\DroidBenchProj\\BroadcastTaintAndLeak1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "C:\\Users\\hao\\workspace\\DroidBenchProj\\BroadcastTaintAndLeak1\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\hao\\workspace\\DroidBenchProj\\BroadcastTaintAndLeak1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "C:\\Users\\hao\\workspace\\DroidBenchProj\\BroadcastTaintAndLeak1\\app\\src\\main\\res\\drawable\\play.png"
+    }
+]
