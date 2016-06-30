@@ -3,6 +3,7 @@ package de.ecspride;
 import android.app.Activity;
 import android.content.Context;
 import android.os.Bundle;
+import android.os.StrictMode;
 import android.telephony.TelephonyManager;
 import android.view.View;
 
@@ -29,6 +30,11 @@ public class VirtualDispatch1 extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_virtual_dispatch1);
+
+		if (android.os.Build.VERSION.SDK_INT > 9) {
+			StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
+			StrictMode.setThreadPolicy(policy);
+		}
 		
 		TelephonyManager telephonyManager = (TelephonyManager)getSystemService(Context.TELEPHONY_SERVICE);
 	    imei = telephonyManager.getDeviceId(); //source

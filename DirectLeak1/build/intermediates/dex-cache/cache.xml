@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\DirectLeak1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f3cf7bc72efadf79c3aed145b98b5121d333c19d">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\DirectLeak1\app\build\intermediates\pre-dexed\debug\instant-run_fb78ac872454ba36245f17461ab87a1522f787e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\DirectLeak1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1dc5b22f82ff24532628be51846a7ab1a0eccae8">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\DirectLeak1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e4225d8f707182c1307f850a4dddf6a4846a566b.jar" />
+    </item>
+    <item
         jar="C:\Users\hao\Downloads\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="22.0.1"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\DirectLeak1\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\DirectLeak1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
     </item>
 
 </items>

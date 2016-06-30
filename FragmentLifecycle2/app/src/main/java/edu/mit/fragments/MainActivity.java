@@ -20,6 +20,7 @@ import edu.mit.fragments.R;
 import android.os.Bundle;
 import android.app.Activity;
 import android.app.FragmentTransaction;
+import android.os.StrictMode;
 
 /**
  * @testcase_name Fragments 
@@ -37,6 +38,12 @@ public class MainActivity extends Activity
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.news_articles);
+
+        if (android.os.Build.VERSION.SDK_INT > 9) {
+            StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
+            StrictMode.setThreadPolicy(policy);
+        }
+
         // Check whether the activity is using the layout version with
         // the fragment_container FrameLayout. If so, we must add the first fragment
         if (findViewById(R.id.fragment_container) != null) {

@@ -5,11 +5,19 @@ import android.support.v4.app.Fragment;
 import android.support.v7.app.ActionBarActivity;
 import android.telephony.SmsManager;
 import android.telephony.TelephonyManager;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
 
 /**
  * @testcase_name Merge1
@@ -74,6 +82,12 @@ public class MainActivity extends ActionBarActivity {
 
 		SmsManager sms = SmsManager.getDefault();
         sms.sendTextMessage("+49 1234", null, a.attr.b, null, null); // sink, leak
+
+		try {
+			connect(a.attr.b);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 
 	@Override
@@ -113,4 +127,30 @@ public class MainActivity extends ActionBarActivity {
 		}
 	}
 
+	private void connect(String data) throws IOException {
+		String URL = "http://www.google.de/search?q=";
+		URL = URL.concat(data);
+		java.net.URL url = new URL(URL);
+		HttpURLConnection conn = (HttpURLConnection) url.openConnection(); //sink, leak
+		conn.setRequestMethod("GET");
+		conn.setDoInput(true);
+		// Starts the query
+		conn.connect();
+		Log.d(getClass().getSimpleName(), URL);
+
+		InputStream is = conn.getInputStream();
+		if (is == null)
+			return;
+		StringBuilder sb = new StringBuilder();
+		BufferedReader br = new BufferedReader(new InputStreamReader(is));
+		String line = null;
+		try {
+			while ((line = br.readLine()) != null)
+				sb.append(line);
+		} finally {
+			br.close();
+			is.close();
+		}
+		Log.d(getClass().getSimpleName(), sb.toString());
+	}
 }

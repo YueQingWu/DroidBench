@@ -10,6 +10,7 @@
 
     <uses-permission android:name="android.permission.SEND_SMS" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
         android:name="de.ecspride.ApplicationLifecyle2"
@@ -27,11 +28,6 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name="de.ecspride.TestReceiver" >
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED"/>
-            </intent-filter>
-        </receiver>
     </application>
 
 </manifest>

@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "edu.mit.event_context_shared_pref_listener"
-        minSdkVersion 19
+        minSdkVersion 9
         targetSdkVersion 19
     }
 

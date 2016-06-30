@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\hao\\workspace\\DroidBenchProj\\GeneralJava_Loop2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loop_example2.xml",
+        "source": "C:\\Users\\hao\\workspace\\DroidBenchProj\\GeneralJava_Loop2\\app\\src\\main\\res\\layout\\activity_loop_example2.xml"
+    },
+    {
         "merged": "C:\\Users\\hao\\workspace\\GeneralJava_Loop2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loop_example2.xml",
         "source": "C:\\Users\\hao\\workspace\\GeneralJava_Loop2\\app\\src\\main\\res\\layout\\activity_loop_example2.xml"
     }

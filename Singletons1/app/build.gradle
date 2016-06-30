@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "edu.mit.to_components_share_memory"
-        minSdkVersion 19
+        minSdkVersion 9
         targetSdkVersion 19
     }
 

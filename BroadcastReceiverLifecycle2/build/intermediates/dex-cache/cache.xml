@@ -3,10 +3,24 @@
 
     <item
         jar="C:\Users\hao\Downloads\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="22.0.1"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\BroadcastReceiverLifecycle2\app\build\intermediates\pre-dexed\release\support-v4-19.1.0_4b408d63f583769ba3fff419a17b387c4c9cbb8a.jar" />
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\BroadcastReceiverLifecycle2\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_4b408d63f583769ba3fff419a17b387c4c9cbb8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\BroadcastReceiverLifecycle2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7369abfe63a65beaa8b3d9e73c04518f7cd5f138">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\BroadcastReceiverLifecycle2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fffc3a4d611aa607c6a71b0e78f53ea6b83208a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\BroadcastReceiverLifecycle2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="fa862bb82d0407f1d9e4b872ff4ee7b7688f5558">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\BroadcastReceiverLifecycle2\app\build\intermediates\pre-dexed\debug\instant-run_9ee54e0c860406d2eac9b45799d44810fecfe659.jar" />
     </item>
 
 </items>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\BroadcastTaintAndLeak1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="58a1a652acd1a2c5a774c4ab60103b9f5686aeac">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\BroadcastTaintAndLeak1\app\build\intermediates\pre-dexed\debug\instant-run_70afd8c02dccb06deafef1f7ac2334b257c88d32.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\BroadcastTaintAndLeak1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="32e350aec43e3a61a697d25fc9cade4c5e12b2d5">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\BroadcastTaintAndLeak1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3f931b2c4ab209f31e9902d8876ff9304c22e629.jar" />
+    </item>
+
+</items>

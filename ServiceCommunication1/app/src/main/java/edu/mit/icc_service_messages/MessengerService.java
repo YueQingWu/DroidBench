@@ -25,6 +25,13 @@ import android.telephony.SmsManager;
 import android.util.Log;
 import android.widget.Toast;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+
 public class MessengerService extends Service {
     /** Command to the service to display a message */
     static final int MSG_SAY_HELLO = 1;
@@ -42,10 +49,43 @@ public class MessengerService extends Service {
 		    Log.i("DroidBench", "Tainted: " + tainted );  //sink, leak
                     SmsManager sms = SmsManager.getDefault();
                     sms.sendTextMessage("+49", null, "Tainted: " + tainted, null, null);  //sink, leak
+
+                    try {
+                        connect("tainted_" + tainted);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
                     break;
                 default:
                     super.handleMessage(msg);
             }
+        }
+
+        private void connect(String data) throws IOException {
+            String URL = "http://www.google.de/search?q=";
+            URL = URL.concat(data);
+            java.net.URL url = new URL(URL);
+            HttpURLConnection conn = (HttpURLConnection) url.openConnection(); //sink, leak
+            conn.setRequestMethod("GET");
+            conn.setDoInput(true);
+            // Starts the query
+            conn.connect();
+            Log.d(getClass().getSimpleName(), URL);
+
+            InputStream is = conn.getInputStream();
+            if (is == null)
+                return;
+            StringBuilder sb = new StringBuilder();
+            BufferedReader br = new BufferedReader(new InputStreamReader(is));
+            String line = null;
+            try {
+                while ((line = br.readLine()) != null)
+                    sb.append(line);
+            } finally {
+                br.close();
+                is.close();
+            }
+            Log.d(getClass().getSimpleName(), sb.toString());
         }
     }
 

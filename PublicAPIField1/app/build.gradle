@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "edu.mit.public_api_field"
-        minSdkVersion 19
+        minSdkVersion 9
         targetSdkVersion 19
     }
 

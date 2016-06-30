@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:1:1-26:12
+ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:1:1-33:12
 	xmlns:android
 		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:1:11-69
 	package
@@ -33,19 +33,33 @@ uses-permission#android.permission.SEND_SMS
 ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:11:22-64
-application
-ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:13:5-24:19
-	android:label
-		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:16:9-41
-	android:allowBackup
-		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:14:9-35
-	android:icon
-		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:15:9-45
-	android:theme
-		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:17:9-40
-service#de.ecspride.MainService
-ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:19:9-23:13
-	android:label
-		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:21:5-32
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:12:5-66
 	android:name
-		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:20:5-43
+		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:12:22-64
+application
+ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:14:5-31:19
+	android:label
+		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:18:9-40
+service#de.ecspride.MainService
+ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:20:9-24:13
+	android:label
+		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:22:5-32
+	android:name
+		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:21:5-43
+receiver#de.ecspride.Autostart
+ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:26:9-30:20
+	android:name
+		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:26:19-44
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:27:13-29:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:28:17-79
+	android:name
+		ADDED from C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\src\main\AndroidManifest.xml:28:25-76

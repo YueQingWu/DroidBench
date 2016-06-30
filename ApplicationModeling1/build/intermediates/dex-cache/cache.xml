@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\ApplicationModeling1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="98c0b4e875ffa22e821c8b44a2453b1203dd4dad">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\ApplicationModeling1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ab082d545edd703f47df0c8cdcb81f091693fe91.jar" />
+    </item>
+
+</items>

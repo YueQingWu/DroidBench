@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\hao\workspace\DroidBenchProj\ActivityCommunication4\app\src\main\AndroidManifest.xml:2:1-46:12
+ADDED from C:\Users\hao\workspace\DroidBenchProj\ActivityCommunication4\app\src\main\AndroidManifest.xml:2:1-48:12
 	xmlns:android
 		ADDED from C:\Users\hao\workspace\DroidBenchProj\ActivityCommunication4\app\src\main\AndroidManifest.xml:2:11-69
 	package
@@ -83,3 +83,11 @@ uses-permission#android.permission.READ_PHONE_STATE
 ADDED from C:\Users\hao\workspace\DroidBenchProj\ActivityCommunication4\app\src\main\AndroidManifest.xml:45:5-75
 	android:name
 		ADDED from C:\Users\hao\workspace\DroidBenchProj\ActivityCommunication4\app\src\main\AndroidManifest.xml:45:22-72
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\hao\workspace\DroidBenchProj\ActivityCommunication4\app\src\main\AndroidManifest.xml:46:5-67
+	android:name
+		ADDED from C:\Users\hao\workspace\DroidBenchProj\ActivityCommunication4\app\src\main\AndroidManifest.xml:46:22-64
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hao\workspace\DroidBenchProj\ActivityCommunication4\app\src\main\AndroidManifest.xml:47:5-66
+	android:name
+		ADDED from C:\Users\hao\workspace\DroidBenchProj\ActivityCommunication4\app\src\main\AndroidManifest.xml:47:22-64

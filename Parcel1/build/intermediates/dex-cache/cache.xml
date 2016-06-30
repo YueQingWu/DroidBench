@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\Parcel1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="cc1ca4c0e56248a18be07e5053910bb9fa196a38">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\Parcel1\app\build\intermediates\pre-dexed\debug\instant-run_9952311b4c8171f3cbbe6faf83bc4f635b97595d.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\Parcel1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e6d3f51dc592e5477b117bf399de8278785e0380">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\Parcel1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_72b9e5b1395127407a80679fb467047a73136353.jar" />
+    </item>
+
+</items>

@@ -2,18 +2,32 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\PlayStore1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4dfb77cdcec3e8ead7469afa81276afd00b5178f">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\PlayStore1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4f61905aad5e7aca18aabf73d6ed60698b935014.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\PlayStore1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f1aa95a0ff5b8e1f8f4793a689d0e36bd975fa53">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\PlayStore1\app\build\intermediates\pre-dexed\debug\instant-run_1d4a2a36801e891ab3377a464be30c0bfeb45a4a.jar" />
+    </item>
+    <item
         jar="C:\Users\hao\workspace\DroidBenchProj\PlayStore1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="22.0.1"
         sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\PlayStore1\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-18.0.0_93ceba450bde161ffe7ea0453a3a3241daee4612.jar" />
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\PlayStore1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-18.0.0_93ceba450bde161ffe7ea0453a3a3241daee4612.jar" />
     </item>
     <item
         jar="C:\Users\hao\Downloads\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="22.0.1"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\PlayStore1\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\PlayStore1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
     </item>
 
 </items>

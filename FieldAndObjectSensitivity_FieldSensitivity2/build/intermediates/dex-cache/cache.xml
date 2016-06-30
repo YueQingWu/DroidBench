@@ -3,10 +3,24 @@
 
     <item
         jar="C:\Users\hao\Downloads\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="22.0.1"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\FieldAndObjectSensitivity_FieldSensitivity2\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\FieldAndObjectSensitivity_FieldSensitivity2\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\FieldAndObjectSensitivity_FieldSensitivity2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1a716fcb0faf57053a37919883762dedc9d04633">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\FieldAndObjectSensitivity_FieldSensitivity2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9951f4edff82ec76ebd6cd5e496fa9eef2c635dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\FieldAndObjectSensitivity_FieldSensitivity2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="59d927bd02d911c174a9cf687f5f4b7f9fac6eea">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\FieldAndObjectSensitivity_FieldSensitivity2\app\build\intermediates\pre-dexed\debug\instant-run_afc37e81414201d4494a9adb544615e70f80667f.jar" />
     </item>
 
 </items>

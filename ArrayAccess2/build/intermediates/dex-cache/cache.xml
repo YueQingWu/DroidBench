@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\ArrayAccess2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="095eaf0e479e33da46654ef938a341f10b5cc4a8">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\ArrayAccess2\app\build\intermediates\pre-dexed\debug\instant-run_e47c81c8dd271fae8cf6cfe818f5acc70a1a53a6.jar" />
+    </item>
+    <item
         jar="C:\Users\hao\Downloads\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="22.0.1"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\ArrayAccess2\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\ArrayAccess2\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\ArrayAccess2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="de30e83cf0719ca42734848e48ee2b3a96eed25f">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\ArrayAccess2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_910c5a83c2aa402f0341da186d6b94015913aca0.jar" />
     </item>
 
 </items>

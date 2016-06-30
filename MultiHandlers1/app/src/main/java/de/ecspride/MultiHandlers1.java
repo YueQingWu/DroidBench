@@ -45,6 +45,7 @@ public class MultiHandlers1 extends Activity implements IDataProvider {
     	startActivity(intent);
     }
 
+
 	@Override
 	public void setData(String data) {
 		this.data = data;

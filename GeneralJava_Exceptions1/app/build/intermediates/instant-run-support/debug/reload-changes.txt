@@ -1,0 +1,2 @@
+CHANGED,C:\Users\hao\workspace\DroidBenchProj\GeneralJava_Exceptions1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\de\ecspride\Exceptions1$override.class
+CHANGED,C:\Users\hao\workspace\DroidBenchProj\GeneralJava_Exceptions1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

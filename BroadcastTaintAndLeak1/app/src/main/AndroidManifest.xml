@@ -19,5 +19,6 @@
 <uses-sdk android:minSdkVersion="15"></uses-sdk>
 <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.INTERNET"/>
 
 </manifest> 

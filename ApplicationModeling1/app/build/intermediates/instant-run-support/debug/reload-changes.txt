@@ -1,0 +1,7 @@
+CHANGED,C:\Users\hao\workspace\DroidBenchProj\ApplicationModeling1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\mit\application_modeling\R$layout$override.class
+CHANGED,C:\Users\hao\workspace\DroidBenchProj\ApplicationModeling1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\mit\application_modeling\R$style$override.class
+CHANGED,C:\Users\hao\workspace\DroidBenchProj\ApplicationModeling1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\mit\application_modeling\R$string$override.class
+CHANGED,C:\Users\hao\workspace\DroidBenchProj\ApplicationModeling1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\mit\application_modeling\R$menu$override.class
+CHANGED,C:\Users\hao\workspace\DroidBenchProj\ApplicationModeling1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\mit\application_modeling\MainActivity$override.class
+CHANGED,C:\Users\hao\workspace\DroidBenchProj\ApplicationModeling1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\hao\workspace\DroidBenchProj\ApplicationModeling1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\mit\application_modeling\R$override.class

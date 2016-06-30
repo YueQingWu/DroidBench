@@ -7,17 +7,17 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 64,
-                    "endOffset": 115
+                    "endColumn": 57,
+                    "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\Lifecycle_BroadcastReceiverLifecycle1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\Lifecycle_BroadcastReceiverLifecycle1\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 19,
-                        "endColumn": 64,
-                        "endOffset": 79
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
                     }
                 }
             },
@@ -25,42 +25,57 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 120,
-                    "endLine": 9,
-                    "endColumn": 12,
-                    "endOffset": 406
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
                 },
                 "from": {
-                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\Lifecycle_BroadcastReceiverLifecycle1\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\Lifecycle_BroadcastReceiverLifecycle1\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 192,
-                        "endLine": 12,
-                        "endColumn": 12,
-                        "endOffset": 484
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 411,
-                    "endLine": 12,
-                    "endColumn": 12,
-                    "endOffset": 566
+                    "startOffset": 169,
+                    "endColumn": 64,
+                    "endOffset": 229
                 },
                 "from": {
-                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\Lifecycle_BroadcastReceiverLifecycle1\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 525,
-                        "endLine": 17,
-                        "endColumn": 12,
-                        "endOffset": 682
-                    }
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\Lifecycle_BroadcastReceiverLifecycle1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\Lifecycle_BroadcastReceiverLifecycle1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 525,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "C:\\Users\\hao\\workspace\\DroidBenchProj\\Lifecycle_BroadcastReceiverLifecycle1\\app\\src\\main\\res\\values\\styles.xml"
                 }
             }
         ]

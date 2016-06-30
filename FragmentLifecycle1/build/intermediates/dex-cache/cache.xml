@@ -3,10 +3,24 @@
 
     <item
         jar="C:\Users\hao\Downloads\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="22.0.1"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\FragmentLifecycle1\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\FragmentLifecycle1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\FragmentLifecycle1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4bf18781d5f9f786683dd0cb03fe7790a59a6041">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\FragmentLifecycle1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_614016a26565427e3bdf75fe4dc50218282f498d.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\FragmentLifecycle1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0c584d94a78448480ad0e921b551bd38d3f05a1e">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\FragmentLifecycle1\app\build\intermediates\pre-dexed\debug\instant-run_11de423c78656c127e923fbf925a0674d59e1f00.jar" />
     </item>
 
 </items>

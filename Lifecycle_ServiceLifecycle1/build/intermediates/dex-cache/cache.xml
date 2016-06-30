@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\hao\Downloads\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="false"
+        jar="C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         revision="22.0.1"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
+        sha1="2f50e16ef7d7e455ca631e1849179d7ae75393a5">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ServiceLifecycle1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8512fe392c89ccd40b701eb56e6ac35e00ab88a9.jar" />
     </item>
 
 </items>

@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 19
+    compileSdkVersion 17
     buildToolsVersion "22.0.1"
 
     defaultConfig {
         applicationId "edu.mit.clinit"
-        minSdkVersion 19
-        targetSdkVersion 19
+        minSdkVersion 9
+        targetSdkVersion 17
     }
 
     buildTypes {

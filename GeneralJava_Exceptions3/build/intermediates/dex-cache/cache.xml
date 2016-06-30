@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\GeneralJava_Exceptions3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e342f588d91336af9b03c5bbc4d2561c7beba62a">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\GeneralJava_Exceptions3\app\build\intermediates\pre-dexed\debug\instant-run_b0068cd23f419f2e121ff16548b3a9592d6bcbcc.jar" />
+    </item>
+    <item
         jar="C:\Users\hao\Downloads\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="22.0.1"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\GeneralJava_Exceptions3\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\GeneralJava_Exceptions3\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\GeneralJava_Exceptions3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3d1d0f896ecc9a96fa53a44c2e23216bda8aaf08">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\GeneralJava_Exceptions3\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_45178a365bfffbbdc483e51418dcce52fdb89ac6.jar" />
     </item>
 
 </items>

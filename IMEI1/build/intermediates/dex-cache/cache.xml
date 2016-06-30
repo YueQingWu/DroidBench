@@ -3,17 +3,31 @@
 
     <item
         jar="C:\Users\hao\workspace\DroidBenchProj\IMEI1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="22.0.1"
         sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\IMEI1\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-19.1.0_b89fccbbf9b3a10a03ed05c606300a41c01f0721.jar" />
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\IMEI1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_b89fccbbf9b3a10a03ed05c606300a41c01f0721.jar" />
     </item>
     <item
         jar="C:\Users\hao\Downloads\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="22.0.1"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\IMEI1\app\build\intermediates\pre-dexed\release\support-v4-19.1.0_4b408d63f583769ba3fff419a17b387c4c9cbb8a.jar" />
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\IMEI1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_4b408d63f583769ba3fff419a17b387c4c9cbb8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\IMEI1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="65f1be99ddcb395a159d16173b8009bde5dac260">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\IMEI1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9559ebff9f09b17d74419fd44a874544c6cfb5e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\IMEI1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ccf95638cd0b3c5b5394449b2b9e9ffb1aac89c3">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\IMEI1\app\build\intermediates\pre-dexed\debug\instant-run_b4b1efc3cb56919e5779d16c13b3502332746e0f.jar" />
     </item>
 
 </items>

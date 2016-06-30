@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\StringToCharArray1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b11ea05273472e4a948e5c8c79de77cf02f819ee">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\StringToCharArray1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ff42108b726c95dbc78b093520ee0c95b39a5b7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\StringToCharArray1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="859c30f9cfb5e3de8f7504d4b9d382df3142d0dd">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\StringToCharArray1\app\build\intermediates\pre-dexed\debug\instant-run_062c4e7afcd4b749c50e25cc91f8de74220ff188.jar" />
+    </item>
+
+</items>

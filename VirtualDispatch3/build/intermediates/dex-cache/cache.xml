@@ -2,18 +2,32 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\hao\workspace\DroidBenchProj\VirtualDispatch3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\VirtualDispatch3\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-19.1.0_e7e1968305505b37bdd20312d48091729606171d.jar" />
-    </item>
-    <item
         jar="C:\Users\hao\Downloads\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="22.0.1"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\VirtualDispatch3\app\build\intermediates\pre-dexed\release\support-v4-19.1.0_4b408d63f583769ba3fff419a17b387c4c9cbb8a.jar" />
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\VirtualDispatch3\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_4b408d63f583769ba3fff419a17b387c4c9cbb8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\VirtualDispatch3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6b60c78d8426df8d534cc183f17e610503422383">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\VirtualDispatch3\app\build\intermediates\pre-dexed\debug\instant-run_08d1f35243b028757d44b2749ec1debe1ad46fa2.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\VirtualDispatch3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\VirtualDispatch3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_e7e1968305505b37bdd20312d48091729606171d.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\VirtualDispatch3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="04439102aace4008966f7d5b0efcfa3bd21c2f74">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\VirtualDispatch3\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_959d0708b07b8dd4dd84b1d0860817d7e058981e.jar" />
     </item>
 
 </items>

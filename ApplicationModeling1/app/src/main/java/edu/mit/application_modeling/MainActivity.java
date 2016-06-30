@@ -26,6 +26,7 @@ public class MainActivity extends Activity {
 	
 	((MyApplication)getApplication()).imei = imei;
 	
-	Intent i = new Intent(this, AnotherActivity.class);
+	Intent i = new Intent(this, AnotherActivity1.class);
+        startActivity(i);
     }
 }
