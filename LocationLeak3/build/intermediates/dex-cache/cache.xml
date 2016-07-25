@@ -5,7 +5,7 @@
         jar="C:\Users\hao\workspace\DroidBenchProj\LocationLeak3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="ef2b6546643c8ce79b346b4ee6cf1b7c25a2a2da">
+        sha1="324808b5464d66edf0f24a1b782b9e7e0e968ac6">
         <dex dex="C:\Users\hao\workspace\DroidBenchProj\LocationLeak3\app\build\intermediates\pre-dexed\debug\instant-run_d722f2e1b5aa3794296f880d6f893c8769ba5176.jar" />
     </item>
     <item
@@ -19,7 +19,7 @@
         jar="C:\Users\hao\workspace\DroidBenchProj\LocationLeak3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="e88c8fc8ec2405ee4e774ccd9e694ced85a19c85">
+        sha1="17ba32d644d2e24e182a3495bf6a0ab7d0af6b3e">
         <dex dex="C:\Users\hao\workspace\DroidBenchProj\LocationLeak3\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_30067ff82096221e4cec65b54de5af8dfd626ea4.jar" />
     </item>
 

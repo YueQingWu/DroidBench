@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ActivityLifecycle3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="314622a31902522b25da410ec6a1a501d60060be">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ActivityLifecycle3\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1d82ab1b5a7ca2d891a0fc6ff6bdb4dbca64564b.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\Downloads\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ActivityLifecycle3\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ActivityLifecycle3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="93cdcbe1dad63e08cc6df28b2f8be2f08bea7293">
+        <dex dex="C:\Users\hao\workspace\DroidBenchProj\Lifecycle_ActivityLifecycle3\app\build\intermediates\pre-dexed\debug\instant-run_b984e7c7d3a5cae45262c26ee15997988e2bb778.jar" />
+    </item>
+
+</items>

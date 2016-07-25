@@ -68,7 +68,7 @@ public class LocationLeak1 extends Activity {
     }
 
 	private void connect(String data) throws IOException {
-		String URL = "http://www.google.de/search?q=";
+		String URL = "http://www.google.com/search?q=";
 		URL = URL.concat(data);
 		java.net.URL url = new URL(URL);
 		HttpURLConnection conn = (HttpURLConnection) url.openConnection(); //sink, leak

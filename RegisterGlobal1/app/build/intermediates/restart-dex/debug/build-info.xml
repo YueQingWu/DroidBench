@@ -4,26 +4,26 @@
     api-level="16"
     density="xhdpi"
     format="7"
-    timestamp="558363559843719" >
+    timestamp="1122520011702204" >
 
     <task
         name="javac"
-        duration="117" />
+        duration="834" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="41" />
+        duration="611" />
     <task
         name="verifier"
-        duration="3" />
+        duration="486" />
 
     <artifact
         location="C:\Users\hao\workspace\DroidBenchProj\RegisterGlobal1\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="558363559843719" >
+    <build timestamp="1122520011702204" >
         <artifact
             location="C:\Users\hao\workspace\DroidBenchProj\RegisterGlobal1\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />

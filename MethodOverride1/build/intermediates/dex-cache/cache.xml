@@ -5,14 +5,14 @@
         jar="C:\Users\hao\workspace\DroidBenchProj\MethodOverride1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="93c3cc73ac3e38f76bf96b5b188dbec817733499">
+        sha1="8f5b067121e64fce017a2e6b9ed76fd68b4c7f25">
         <dex dex="C:\Users\hao\workspace\DroidBenchProj\MethodOverride1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_856ec2ae288fc6caa035b5b6889f73be5c0f957e.jar" />
     </item>
     <item
         jar="C:\Users\hao\workspace\DroidBenchProj\MethodOverride1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="8c420caab810e56c93a3529a591b8d03b12a8250">
+        sha1="e5790ffdc0f87bb3303a149b4307c91be64f893b">
         <dex dex="C:\Users\hao\workspace\DroidBenchProj\MethodOverride1\app\build\intermediates\pre-dexed\debug\instant-run_130cfa20980e644b1f7d9be704f4668ecd7080b1.jar" />
     </item>
     <item

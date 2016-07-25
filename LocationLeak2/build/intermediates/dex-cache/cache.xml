@@ -12,14 +12,14 @@
         jar="C:\Users\hao\workspace\DroidBenchProj\LocationLeak2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="3a7954ed9414e58da2ebc29d385fa8e180cdc8e4">
+        sha1="8daf4b1657b96592e7b0a5b1454b14a5c3f7d73e">
         <dex dex="C:\Users\hao\workspace\DroidBenchProj\LocationLeak2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_90b05cad18198f7f5ec6cd28630aac6b0b92adf5.jar" />
     </item>
     <item
         jar="C:\Users\hao\workspace\DroidBenchProj\LocationLeak2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="3a491e363ba849060c7977c928c177abfd7b65e1">
+        sha1="4656a4cb4badd8ab4d325fd88f094b9de3d7a85b">
         <dex dex="C:\Users\hao\workspace\DroidBenchProj\LocationLeak2\app\build\intermediates\pre-dexed\debug\instant-run_86062be688a990a0fb1e638e6e3a9241015fd565.jar" />
     </item>
 

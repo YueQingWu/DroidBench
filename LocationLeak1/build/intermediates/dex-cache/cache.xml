@@ -1,26 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2" />
 
-    <item
-        jar="C:\Users\hao\workspace\DroidBenchProj\LocationLeak1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="245dda2f86af68c2d89a2bd083c9012677b935f9">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\LocationLeak1\app\build\intermediates\pre-dexed\debug\instant-run_972fe06f07014510920e41783b6f022bcbb1ba28.jar" />
-    </item>
-    <item
-        jar="C:\Users\hao\workspace\DroidBenchProj\LocationLeak1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="7d65e05f8eb9fc5e63080799dc5d40d2597d7e6c">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\LocationLeak1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3b150d42d82ae1cdf5cccedd06012e38680397ab.jar" />
-    </item>
-    <item
-        jar="C:\Users\hao\Downloads\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\hao\workspace\DroidBenchProj\LocationLeak1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_51a07ed492669f4b08939b1fff05bae0328851f5.jar" />
-    </item>
-
-</items>

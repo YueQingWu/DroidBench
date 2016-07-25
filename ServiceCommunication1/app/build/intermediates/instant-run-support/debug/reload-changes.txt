@@ -1,3 +1,0 @@
-CHANGED,C:\Users\hao\workspace\DroidBenchProj\ServiceCommunication1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\mit\icc_service_messages\ActivityMessenger$1$override.class
-CHANGED,C:\Users\hao\workspace\DroidBenchProj\ServiceCommunication1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,C:\Users\hao\workspace\DroidBenchProj\ServiceCommunication1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\edu\mit\icc_service_messages\ActivityMessenger$override.class

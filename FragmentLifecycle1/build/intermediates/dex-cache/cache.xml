@@ -12,14 +12,14 @@
         jar="C:\Users\hao\workspace\DroidBenchProj\FragmentLifecycle1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="4bf18781d5f9f786683dd0cb03fe7790a59a6041">
+        sha1="9697a2fc7f30a1e8263969d75c4ef678b89f0cb8">
         <dex dex="C:\Users\hao\workspace\DroidBenchProj\FragmentLifecycle1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_614016a26565427e3bdf75fe4dc50218282f498d.jar" />
     </item>
     <item
         jar="C:\Users\hao\workspace\DroidBenchProj\FragmentLifecycle1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="0c584d94a78448480ad0e921b551bd38d3f05a1e">
+        sha1="c558adad09745d3cf2edd628f4ee4023c35038fd">
         <dex dex="C:\Users\hao\workspace\DroidBenchProj\FragmentLifecycle1\app\build\intermediates\pre-dexed\debug\instant-run_11de423c78656c127e923fbf925a0674d59e1f00.jar" />
     </item>
 

@@ -49,7 +49,7 @@ public class Button2 extends Activity {
 		    	
 		    	SmsManager sm = SmsManager.getDefault();
 		    	String number = "+49 1234";
-		    	sm.sendTextMessage(number, null, imei, null, null); //sink, potential leak
+		    	sm.sendTextMessage(number, null, "sendIMEI: " + imei, null, null); //sink, potential leak
 		        Log.i("TAG", "sendIMEI: " + imei); //sink, potential leak
 
 				try {
@@ -70,7 +70,7 @@ public class Button2 extends Activity {
 		        imei = null;
 		        Log.i("TAG", "Button 2: " + imei); //sink, no leak
 				SmsManager sms = SmsManager.getDefault();
-				sms.sendTextMessage("+49", null, imei, null, null);  //sink, no leak
+				sms.sendTextMessage("+49", null, "Button 2: " + imei, null, null);  //sink, no leak
 
 				try {
 					connect(imei);

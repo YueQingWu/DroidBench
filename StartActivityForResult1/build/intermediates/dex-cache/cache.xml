@@ -5,14 +5,14 @@
         jar="C:\Users\hao\workspace\DroidBenchProj\StartActivityForResult1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="c0be30408be156a9a829c6d1eba265844da9534b">
+        sha1="994056984f7613e157c377f4e4e1510578318dba">
         <dex dex="C:\Users\hao\workspace\DroidBenchProj\StartActivityForResult1\app\build\intermediates\pre-dexed\debug\instant-run_85f55d31b43b3ff81a3b9cd1c8a9eb1180cae198.jar" />
     </item>
     <item
         jar="C:\Users\hao\workspace\DroidBenchProj\StartActivityForResult1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="3d7bf3d03f155d5883dc6fb406ebad36d137ba97">
+        sha1="d5b65eebcc93e4402396986f745a775b9baa536d">
         <dex dex="C:\Users\hao\workspace\DroidBenchProj\StartActivityForResult1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_59d8a2e2cdeaa34b478d7d7b537be14f080b5104.jar" />
     </item>
     <item
